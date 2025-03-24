@@ -1,0 +1,100 @@
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/final.py
+Size (bytes): 6811
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/.DS_Store
+Size (bytes): 6148
+Last Modified: 2024-08-09 20:58:23
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/file_details.txt
+Size (bytes): 116265
+Last Modified: 2024-08-09 21:04:30
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/list_files.py
+Size (bytes): 2027
+Last Modified: 2024-08-09 21:07:26
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib
+Size (bytes): N/A
+Last Modified: N/A
+Type: directory
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_1inch8.py
+Size (bytes): 8992
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_1inch3.py
+Size (bytes): 4467
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_1inch54.py
+Size (bytes): 4486
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/__init__.py
+Size (bytes): 0
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_2inch.py
+Size (bytes): 5502
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_1inch14.py
+Size (bytes): 4608
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_0inch96.py
+Size (bytes): 5552
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/lcdconfig.py
+Size (bytes): 4064
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_1inch47.py
+Size (bytes): 4618
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_2inch4.py
+Size (bytes): 6165
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/LCD_1inch28.py
+Size (bytes): 7903
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/__pycache__
+Size (bytes): N/A
+Last Modified: N/A
+Type: directory
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/__pycache__/__init__.cpython-39.pyc
+Size (bytes): 130
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/__pycache__/lcdconfig.cpython-39.pyc
+Size (bytes): 2721
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
+Path: /Users/admin/Downloads/S7 Main Project/Emo-main/Code/lib/__pycache__/LCD_2inch.cpython-39.pyc
+Size (bytes): 4144
+Last Modified: 2023-09-28 10:17:32
+Type: file
+
