@@ -1,5 +1,4 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+#display with emotions/new.py
 import os
 import sys
 import time
